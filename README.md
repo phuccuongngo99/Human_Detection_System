@@ -1,4 +1,4 @@
-# Human_Detection_System
+# Human Detection System
 This is the implementation of self-initiated project for automatic human detection on school field.
 
 ## Installation
